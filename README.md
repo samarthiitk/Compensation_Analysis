@@ -24,7 +24,7 @@ This project analyzes employee salary data to understand compensation distributi
 
 ## Dashboard
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](Compensation_Analysis_Dashboard.png)
 
 ## Dataset
 
