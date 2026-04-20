@@ -36,3 +36,10 @@ This project analyzes employee salary data to understand compensation distributi
 * Understanding compensation data structure
 * Applying segmentation and comparison techniques
 * Building business-focused dashboards in Excel
+
+## Key Insights
+
+- Identified a gender pay gap of approximately 14%, with females earning higher average salaries in this dataset
+- Marketing roles showed the highest average compensation, while Finance roles had the lowest average salary
+- Salary distribution was right-skewed, indicating a small number of high earners influencing the upper range (P75)
+- Experience and department appeared to be stronger drivers of salary variation than education level in this dataset
