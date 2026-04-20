@@ -28,7 +28,7 @@ This project analyzes employee salary data to understand compensation distributi
 
 ## Dataset
 
-*Structured employee compensation dataset containing salary, department, gender, experience, education level, and location attributes used for analytical exploration of compensation trends.
+* Structured employee compensation dataset containing salary, department, gender, experience, education level, and location attributes used for analytical exploration of compensation trends.
 
 ## Key Learnings
 
